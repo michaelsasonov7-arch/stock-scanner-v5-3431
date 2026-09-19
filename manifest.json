@@ -1,0 +1,25 @@
+{
+  "name": "Stock Scanner Pro",
+  "short_name": "ScannerPro",
+  "description": "Nasdaq Composite (~3,400+ common-stock tickers) golden-zone pullback-setup scanner. Educational use only.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090d12",
+  "theme_color": "#090d12",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
